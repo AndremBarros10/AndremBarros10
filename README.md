@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://dev.to/andrembarros10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrembarros10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andrembarros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrembarros" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/andré-barros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andré-barros" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22606004/andr%c3%a9-barros" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andré-barros" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/andrembarros10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andrembarros10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/andrembarros10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="andrembarros10" height="30" width="40" /></a>
 </p>
