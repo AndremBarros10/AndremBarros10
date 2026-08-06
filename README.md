@@ -1,18 +1,45 @@
-<h1 align="center">Hi 👋, I'm André</h1>
-<h3 align="center">A Full-Stack Developer</h3>
+<h1 align="left">André Barros</h1>
 
-- 🌱 Currently learning **Typescript, React and software architecture**
+Full-stack .NET developer with a background in .Net Development. I build web applications end-to-end — from data layer to UI — and bring an automation-minded approach to solving repetitive or fragile workflows.
 
-- 📄 Know about my experiences [CV](CV)
+**Currently:** open to full-stack / software engineer roles &nbsp;·&nbsp; based in Portugal &nbsp;·&nbsp; open to remote or hybrid
 
-<h3 align="left">Connect with me:</h3>
+**Learning:** TypeScript, React, and software architecture
+
+---
+
+### What I work with
+
+`C#` `ASP.NET` `MySQL` `JavaScript` `HTML5 / CSS` `UiPath (RPA)` `Git`
+
 <p align="left">
-<a href="https://dev.to/andrembarros10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="andrembarros10" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrembarros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrembarros" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22606004/andr%c3%a9-barros" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andré-barros" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/andrembarros10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="andrembarros10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/andrembarros10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="andrembarros10" height="30" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" height="36"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-original-wordmark.svg" alt="git" width="36" height="36"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+### Background
+
+- **Deloitte Technology** — RPA development (UiPath) automating data migration for core banking projects
+- **Grupo Torrestir** — full-stack development (C#, ASP.NET, MySQL) for internal logistics systems
+- **BSc, Information Systems Engineering and Management** — University of Minho
+
+---
+
+### Elsewhere
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/andrembarros)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/andrembarros10)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/22606004/andr%c3%a9-barros)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/andrembarros10)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/andrembarros10)
+
+---
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=andrembarros10&show_icons=true&theme=default&hide_title=true&hide_border=true" width="360" alt="GitHub stats" />
