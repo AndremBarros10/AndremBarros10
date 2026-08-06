@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André</h1>
 <h3 align="center">A Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 Currently learning **Typescript, React and software architecture**
 
 - 📄 Know about my experiences [CV](CV)
 
